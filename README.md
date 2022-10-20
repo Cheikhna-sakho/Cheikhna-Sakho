@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cheikhna Sakho</h1>
 <h3 align="center">A passionate web developer from Paris</h3>
 
-- 📫 How to reach me **cheikh.bsakho@gmail.com*
+- 📫 How to reach me *cheikh.bsakho@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
